@@ -1,1 +1,6 @@
-# calculadora_react
+# Calculadora
+
+Tecnologias utilizadas
+HTML
+JAVASCRIPT
+REACT
