@@ -1,12 +1,19 @@
-# Calculadora
+# Calculadora - React
 
-Tecnologias utilizadas
-HTML
-JAVASCRIPT
-REACT
+## 📌 | Tecnologias Utilizadas
+ - [x] Html
+ - [x] Css
+ - [x] JavaScript
+ - [x] React.js
 
-## Componentes Estilizados
+<hr>
 
-- [x] No terminal:
+## 👩‍💻 | Objetivo
 
-`yarn add styled-components `
+Como treinamento para aprender React.js (Biblioteca do JavaScript).
+
+<hr>
+
+## 🎥 | Links
+
+Inspirado em "ReactJS Calculator App | Digital Solutions Master" - [Vídeo Youtube](https://www.youtube.com/watch?v=hpfDRnijdPE).
